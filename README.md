@@ -14,9 +14,9 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho e
 - Ferramentas de Controle de Versão: Git, GitHub
 
 ### Me encontre online
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obrunopatrick/){:target="_blank"}
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obrunopatrick){:target="_blank"}
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obrunopatrick/){:target="_blank"}
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obrunopatrick/)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obrunopatrick)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obrunopatrick/)
 
 ### Projetos recentes
 - [Nome do Projeto](https://github.com/seu-usuario/nome-do-projeto): Descrição breve do projeto e suas principais características.
