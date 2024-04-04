@@ -5,7 +5,7 @@
 ### Sobre mim
 Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento web e estou sempre buscando aprender e me aprimorar.
 
-![obrunopatrik GitHub stats](https://github-readme-stats.vercel.app/api?username=obrunopatrick&show_icons=true&theme=transparent)
+![obrunopatrik GitHub stats](https://github-readme-stats.vercel.app/api?username=obrunopatrick&show_icons=true&theme=dark)
 
 ### Tecnologias que uso no Dia a Dia
 - Linguagens de programação: Python
