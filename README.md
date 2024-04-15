@@ -2,7 +2,7 @@
 
 ## Desenvolvedor de Software | Entusiasta de Tecnologia | Apaixonado por Inovação
 
-### <img src="[(https://raw.githubusercontent.com/obrunopatrick/obrunopatrick/3f9a8f83b600a3d1f7fe879a47b8dd9c41a92ffd/wave.gif)]" width="20px" height="20px" /> Sobre mim
+### <img src="https://raw.githubusercontent.com/obrunopatrick/obrunopatrick/3f9a8f83b600a3d1f7fe879a47b8dd9c41a92ffd/wave.gif" width="20px" height="20px" /> Sobre mim
 Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento web e estou sempre buscando aprender e me aprimorar.
 
 ### 📈 Estatísticas do GitHub
