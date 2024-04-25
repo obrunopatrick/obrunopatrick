@@ -15,6 +15,14 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho e
 - Banco de Dados: MongoDB, MySQL
 - Ferramentas de Controle de Versão: Git, GitHub
 
+### 📖 Proximas tecnologias que quero estudar:
+- TypeScript;
+- Vue.js;
+- PostgreSQL;
+- Redis;
+- Kubernetes;
+- GraphQL; 
+
 ### 🌐 Me encontre online
 Você pode me encontrar e entrar em contato comigo nestas plataformas:
 
