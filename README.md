@@ -1,3 +1,5 @@
+<p style="font-family: Times New Roman, Times, serif;">
+
 # 👨🏻‍💻 Bruno Patrick
 
 ## Desenvolvedor de Software | Entusiasta de Tecnologia | Apaixonado por Inovação
@@ -32,3 +34,4 @@ Você pode me encontrar e entrar em contato comigo nestas plataformas:
 
 ### 📫 Entre em contato
 Se você tiver alguma dúvida, quiser colaborar em um projeto ou até mesmo me convidar para participar de algum projeto, sinta-se à vontade para me enviar uma mensagem!
+</p>
