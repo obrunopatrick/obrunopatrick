@@ -6,8 +6,10 @@
 Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento web e estou sempre buscando aprender e me aprimorar.
 
 ### 📈 Estatísticas do GitHub
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=obrunopatrick&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=obrunopatrick&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=obrunopatrick&show_icons=true&theme=dark#gh-dark-mode-only" width="400" height="200" /> 
+  <img src="https://streak-stats.demolab.com/?user=obrunopatrick&theme=dark" width="400" height="200" />
+</p>
 
 ### 💻 Tecnologias que uso no Dia a Dia
 - Linguagens de programação: Python
@@ -27,10 +29,6 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho e
 Você pode me encontrar e entrar em contato comigo nestas plataformas:
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/obrunopatrick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obrunopatrick/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obrunopatrick/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obrunopatrick) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@obrunopatrick)
-
-<p>
-  <img align="center" width="49%" src="https://streak-stats.demolab.com/?user=obrunopatrick&theme=dark" />
-</p>
 
 ### 📫 Entre em contato
 Se você tiver alguma dúvida, quiser colaborar em um projeto ou até mesmo me convidar para participar de algum projeto, sinta-se à vontade para me enviar uma mensagem!
