@@ -10,12 +10,11 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho e
 ### 📈 Estatísticas do GitHub
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=obrunopatrick&show_icons=true&theme=dark#gh-dark-mode-only" width="400" height="200" /> 
-  <img src="https://streak-stats.demolab.com/?user=obrunopatrick&theme=dark" width="400" height="200" />
 </p>
 
 ### 💻 Tecnologias que uso no Dia a Dia
 - Linguagens de programação: Python
-- Frameworks: React, Node.js, Django
+- lib/Framework: React, Django
 - Banco de Dados: MongoDB, MySQL
 - Ferramentas de Controle de Versão: Git, GitHub
 
@@ -23,6 +22,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho e
 - TypeScript;
 - Vue.js;
 - PostgreSQL;
+- ScyllaDB; 
 - Redis;
 - Kubernetes;
 - GraphQL; 
