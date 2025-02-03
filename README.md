@@ -7,11 +7,6 @@
 ### <img src="https://raw.githubusercontent.com/obrunopatrick/obrunopatrick/3f9a8f83b600a3d1f7fe879a47b8dd9c41a92ffd/wave.gif" width="15px" height="15px" /> Sobre mim
 Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento web e estou sempre buscando aprender e me aprimorar.
 
-### 📈 Estatísticas do GitHub
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=obrunopatrick&show_icons=true&theme=dark#gh-dark-mode-only" width="400" height="200" /> 
-</p>
-
 ### 💻 Tecnologias que uso no Dia a Dia
 - Linguagens de programação: Python
 - lib/Framework: React, Django
